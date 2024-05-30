@@ -1,0 +1,2 @@
+E:\DevExpress\WMS_Proje_01\WMS_Proje_01\bin\Debug\WMS_Proje_01.exe.config
+E:\Yeni klasör\Vertabanı\DevExpress\WMS_Proje_01\WMS_Proje_01\bin\Debug\WMS_Proje_01.exe.config
